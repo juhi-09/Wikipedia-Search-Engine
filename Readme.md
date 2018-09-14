@@ -2,7 +2,7 @@
 
 This is a search engine built on the full corpus of wikipedia (~60GB). 
 The link to the dataset can be found here
-[Wikipedia 2017 Dataset](ftp://10.4.17.131/Datasets/IRE_Monsoon_2017/WikiSearch/).
+ftp://10.4.17.131/Datasets/IRE_Monsoon_2017/WikiSearch/
 
 ## Performance -
 ### For Queries of - 
