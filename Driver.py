@@ -9,6 +9,8 @@ import sys
 import os
 import math
 import pickle
+import string
+import nltk
 
 
 def write_index_to_file(inverted_index, output_path):
